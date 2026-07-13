@@ -5,9 +5,9 @@ INPUT = "portrait.txt"
 OUTPUT = "portrait_tspan.txt"
 
 # SVG placement
-START_X = -10
-START_Y = -30
-LINE_HEIGHT = 9
+START_X = 30
+START_Y = 79.98
+LINE_HEIGHT = 7.55
 
 # Optional trimming
 TRIM_LEFT = 0
